@@ -11,7 +11,7 @@ https://user-images.githubusercontent.com/88493659/233836052-4d3ee951-5821-473a-
 
 ## Live Site:
 ### Known Issues:
-** Please read this before using the Live sites. **
+**Please read this before using the Live sites.**
 1. On the login pages you may see some notices and warnings after providing the email and password and clicking the login button. Please ignore the warnings and again press Login button. You will be successfully logged in.
 2. If you see that the icons of settings and logout is not displayed on the top right corner, then just wait for some time and refresh the page again. This will display the icons. Actually the hosting site takes some time to load the icons as it is grabbing it for the internet.
 
@@ -21,7 +21,7 @@ Admin Login URL – https://assesify.000webhostapp.com/admin/
 ### 2. Student Panel:
 Student Login URL – https://assesify.000webhostapp.com/student/
 
-** For login credentials: **[Click Here](## Login Credentials)
+**For login credentials:** [Click Here](## Login Credentials)
 
 
 ## Soft skills related to solving a picture puzzle include:
