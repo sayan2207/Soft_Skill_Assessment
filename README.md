@@ -67,18 +67,40 @@ Open the xampp or wampp control panel and start the apache and mysql services.
 Download this project as a zip file.
 
 2. Extract Zip File
-Now, extract the zip file and paste it into your htdocs folder inside the xampp or wampp installation folder.
+Now, extract the zip file and paste admin and student folders inside your htdocs folder inside the xampp or wampp installation folder.
 
 3. Import SQL Database file
-You will get database & table files in the ( config) folder. You can import either a database file or table file in your database according to your requirement.
+click on Admin button of the MySQL service on the xampp control panel. This will launch phpMyAdmin page.
+You will get database files in the ( database_configure ) folder. You will have to make two databases of the same name as of the .sql files and then import the database file in your database .
 
 4. Configure Database Connection
-Open database.php and update the database connection details. This file remains in the ( config) folder.
+Open database.php and update the database connection details. This file remains in the (config) folder of admin and student.
 
 5. Log in to Admin Panel
 You can log in to the admin panel with the following credentials –
 
-Admi Lodin URL – http://localhost/codingstatus/admin-panel/
+Admi Lodin URL – http://localhost/admin/
+
+ S. N	 Email	  Password
+ 1	 superadmin@gmail.com	  admin123
+ 2	 testadmin@gmail.com	  admin123
+ 3	 tempadmin@gmail.com	  admin123
+How to Create an Admin Panel for the Website in PHP
+
+
+| S. N | Email                    | Password  |
+| ---: | :-----------------------| :-------- |
+|   1  | superadmin@gmail.com    | admin123  |
+|   2  | testadmin@gmail.com     | admin123  |
+|   3  | tempadmin@gmail.com     | admin123  |
+
+
+
+
+5. Log in to Admin Panel
+You can log in to the admin panel with the following credentials –
+
+Admi Lodin URL – http://localhost/admin/
 
  S. N	 Email	  Password
  1	 superadmin@gmail.com	  admin123
