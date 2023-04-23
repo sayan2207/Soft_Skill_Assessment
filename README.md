@@ -1,2 +1,2 @@
 # Soft_Skill_Assessment
-https://user-images.githubusercontent.com/58986949/115314310-805b2780-a1a7-11eb-8558-648a367ea231.mp4
+https://raw.githubusercontent.com/sayan2207/Soft_Skill_Assessment/master/demonstration.mp4
