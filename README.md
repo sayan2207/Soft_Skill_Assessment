@@ -81,29 +81,32 @@ You can log in to the admin panel with the following credentials –
 
 Admi Lodin URL – http://localhost/admin/
 
- S. N	 Email	  Password
- 1	 superadmin@gmail.com	  admin123
- 2	 testadmin@gmail.com	  admin123
- 3	 tempadmin@gmail.com	  admin123
-How to Create an Admin Panel for the Website in PHP
+| S. N | Email                        | Password  |
+| ---: | :---------------------------| :-------- |
+|   1  | superadmin@gmail.com        | 1234  |
+|   2  | testadmin@gmail.com         | 1234  |
+|   3  | tempadmin@gmail.com         | 1234  |
+|   4  | sayansarkar2207@gmail.com   | 1234  |
+|   5  | shalini12092002@gmail.com   | 1234  |
 
 
-| S. N | Email                    | Password  |
-| ---: | :-----------------------| :-------- |
-|   1  | superadmin@gmail.com    | admin123  |
-|   2  | testadmin@gmail.com     | admin123  |
-|   3  | tempadmin@gmail.com     | admin123  |
+5. Log in to Student Panel
+You can log in to the student panel with the following credentials –
 
+Admi Lodin URL – http://localhost/student/
 
-
-
-5. Log in to Admin Panel
-You can log in to the admin panel with the following credentials –
-
-Admi Lodin URL – http://localhost/admin/
-
- S. N	 Email	  Password
- 1	 superadmin@gmail.com	  admin123
- 2	 testadmin@gmail.com	  admin123
- 3	 tempadmin@gmail.com	  admin123
-How to Create an Admin Panel for the Website in PHP
+| S. N | Email                        | Password |
+| ---: | :---------------------------| :------- |
+|   1  | demo8@gmail.com             | 1234     |
+|   2  | demo7@gmail.com             | 1234     |
+|   3  | demo6@gmail.com             | 1234     |
+|   4  | demo5@gmail.com             | 1234     |
+|   5  | demo4@gmail.com             | 1234     |
+|   6  | demo3@gmail.com             | 1234     |
+|   7  | demo2@gmail.com             | 1234     |
+|   8  | shalini12092002@gmail.com   | 1234     |
+|   9  | sayansarkar2207@gmail.com   | 1234     |
+|  10  | sayansarkar220718@gmail.com | 1234     |
+|  11  | tempadmin@gmail.com         | 1234     |
+|  12  | testadmin@gmail.com         | 1234     |
+|  13  | superadmin@gmail.com        | 1234     |
