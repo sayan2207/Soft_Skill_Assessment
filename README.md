@@ -17,6 +17,8 @@ Admin Login URL – https://assesify.000webhostapp.com/admin/
 ### 2. Student Panel:
 Student Login URL – https://assesify.000webhostapp.com/student/
 
+<span style="color:blue">some *blue* text</span>.
+
 
 
 ## Soft skills related to solving a picture puzzle include:
