@@ -90,7 +90,7 @@ Admi Lodin URL – http://localhost/admin/
 |   5  | shalini12092002@gmail.com   | 1234  |
 
 
-5. Log in to Student Panel
+6. Log in to Student Panel
 You can log in to the student panel with the following credentials –
 
 Admi Lodin URL – http://localhost/student/
