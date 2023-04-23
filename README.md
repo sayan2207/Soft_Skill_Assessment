@@ -9,6 +9,16 @@ https://user-images.githubusercontent.com/88493659/233835689-1d9ec180-9c0f-4a0d-
 https://user-images.githubusercontent.com/88493659/233836052-4d3ee951-5821-473a-ba45-191bf8ecf2cd.mp4
 
 
+## Live Site:
+
+### 1. Admin Panel:
+Admin Login URL – https://assesify.000webhostapp.com/admin/
+
+### 2. Student Panel:
+Student Login URL – https://assesify.000webhostapp.com/student/
+
+
+
 ## Soft skills related to solving a picture puzzle include:
 
 1. Attention to detail: The ability to notice small details in the picture and use them to solve the puzzle.
@@ -79,7 +89,7 @@ Open database.php and update the database connection details. This file remains 
 5. Log in to Admin Panel
 You can log in to the admin panel with the following credentials –
 
-Admi Lodin URL – http://localhost/admin/
+Admin Login URL – http://localhost/admin/
 
 | S. N | Email                        | Password  |
 | ---: | :---------------------------| :-------- |
@@ -93,7 +103,7 @@ Admi Lodin URL – http://localhost/admin/
 6. Log in to Student Panel
 You can log in to the student panel with the following credentials –
 
-Admi Lodin URL – http://localhost/student/
+Student Login URL – http://localhost/student/
 
 | S. N | Email                        | Password |
 | ---: | :---------------------------| :------- |
