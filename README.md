@@ -51,3 +51,37 @@ All of these skills can be applied not only to solving picture puzzles but also 
 6. Be patient: Slide puzzles can be tricky, and it may take some time to figure out the right moves to solve the puzzle. Take breaks if you feel stuck or frustrated, and come back to the puzzle with fresh eyes.
 
 7. Check your progress: Once you have assembled the puzzle, double-check your work to make sure that all of the pieces are in the correct position.
+
+
+
+## Pre requirements for this project:
+
+1. Xampp or Wampp server to host the website.
+This will install apache, mysql and php.
+Open the xampp or wampp control panel and start the apache and mysql services.
+
+
+## Steps to set up the project
+
+1. Get the Source Code
+Download this project as a zip file.
+
+2. Extract Zip File
+Now, extract the zip file and paste it into your htdocs folder inside the xampp or wampp installation folder.
+
+3. Import SQL Database file
+You will get database & table files in the ( config) folder. You can import either a database file or table file in your database according to your requirement.
+
+4. Configure Database Connection
+Open database.php and update the database connection details. This file remains in the ( config) folder.
+
+5. Log in to Admin Panel
+You can log in to the admin panel with the following credentials –
+
+Admi Lodin URL – http://localhost/codingstatus/admin-panel/
+
+ S. N	 Email	  Password
+ 1	 superadmin@gmail.com	  admin123
+ 2	 testadmin@gmail.com	  admin123
+ 3	 tempadmin@gmail.com	  admin123
+How to Create an Admin Panel for the Website in PHP
